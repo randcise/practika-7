@@ -1,0 +1,14 @@
+C:\Users\Nitro\PracticeWork7\Project3_GenericClass\bin\Debug\net10.0\Project3_GenericClass.exe
+C:\Users\Nitro\PracticeWork7\Project3_GenericClass\bin\Debug\net10.0\Project3_GenericClass.deps.json
+C:\Users\Nitro\PracticeWork7\Project3_GenericClass\bin\Debug\net10.0\Project3_GenericClass.runtimeconfig.json
+C:\Users\Nitro\PracticeWork7\Project3_GenericClass\bin\Debug\net10.0\Project3_GenericClass.dll
+C:\Users\Nitro\PracticeWork7\Project3_GenericClass\bin\Debug\net10.0\Project3_GenericClass.pdb
+C:\Users\Nitro\PracticeWork7\Project3_GenericClass\obj\Debug\net10.0\Project3_GenericClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\PracticeWork7\Project3_GenericClass\obj\Debug\net10.0\Project3_GenericClass.AssemblyInfoInputs.cache
+C:\Users\Nitro\PracticeWork7\Project3_GenericClass\obj\Debug\net10.0\Project3_GenericClass.AssemblyInfo.cs
+C:\Users\Nitro\PracticeWork7\Project3_GenericClass\obj\Debug\net10.0\Project3_GenericClass.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\PracticeWork7\Project3_GenericClass\obj\Debug\net10.0\Project3_GenericClass.dll
+C:\Users\Nitro\PracticeWork7\Project3_GenericClass\obj\Debug\net10.0\refint\Project3_GenericClass.dll
+C:\Users\Nitro\PracticeWork7\Project3_GenericClass\obj\Debug\net10.0\Project3_GenericClass.pdb
+C:\Users\Nitro\PracticeWork7\Project3_GenericClass\obj\Debug\net10.0\Project3_GenericClass.genruntimeconfig.cache
+C:\Users\Nitro\PracticeWork7\Project3_GenericClass\obj\Debug\net10.0\ref\Project3_GenericClass.dll

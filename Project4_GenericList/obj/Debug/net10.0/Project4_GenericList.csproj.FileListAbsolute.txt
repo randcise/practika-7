@@ -1,0 +1,14 @@
+C:\Users\Nitro\PracticeWork7\Project4_GenericList\bin\Debug\net10.0\Project4_GenericList.exe
+C:\Users\Nitro\PracticeWork7\Project4_GenericList\bin\Debug\net10.0\Project4_GenericList.deps.json
+C:\Users\Nitro\PracticeWork7\Project4_GenericList\bin\Debug\net10.0\Project4_GenericList.runtimeconfig.json
+C:\Users\Nitro\PracticeWork7\Project4_GenericList\bin\Debug\net10.0\Project4_GenericList.dll
+C:\Users\Nitro\PracticeWork7\Project4_GenericList\bin\Debug\net10.0\Project4_GenericList.pdb
+C:\Users\Nitro\PracticeWork7\Project4_GenericList\obj\Debug\net10.0\Project4_GenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\PracticeWork7\Project4_GenericList\obj\Debug\net10.0\Project4_GenericList.AssemblyInfoInputs.cache
+C:\Users\Nitro\PracticeWork7\Project4_GenericList\obj\Debug\net10.0\Project4_GenericList.AssemblyInfo.cs
+C:\Users\Nitro\PracticeWork7\Project4_GenericList\obj\Debug\net10.0\Project4_GenericList.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\PracticeWork7\Project4_GenericList\obj\Debug\net10.0\Project4_GenericList.dll
+C:\Users\Nitro\PracticeWork7\Project4_GenericList\obj\Debug\net10.0\refint\Project4_GenericList.dll
+C:\Users\Nitro\PracticeWork7\Project4_GenericList\obj\Debug\net10.0\Project4_GenericList.pdb
+C:\Users\Nitro\PracticeWork7\Project4_GenericList\obj\Debug\net10.0\Project4_GenericList.genruntimeconfig.cache
+C:\Users\Nitro\PracticeWork7\Project4_GenericList\obj\Debug\net10.0\ref\Project4_GenericList.dll
