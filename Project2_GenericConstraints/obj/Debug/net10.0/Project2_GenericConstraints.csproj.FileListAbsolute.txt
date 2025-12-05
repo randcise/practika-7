@@ -1,0 +1,14 @@
+C:\Users\Nitro\PracticeWork7\Project2_GenericConstraints\bin\Debug\net10.0\Project2_GenericConstraints.exe
+C:\Users\Nitro\PracticeWork7\Project2_GenericConstraints\bin\Debug\net10.0\Project2_GenericConstraints.deps.json
+C:\Users\Nitro\PracticeWork7\Project2_GenericConstraints\bin\Debug\net10.0\Project2_GenericConstraints.runtimeconfig.json
+C:\Users\Nitro\PracticeWork7\Project2_GenericConstraints\bin\Debug\net10.0\Project2_GenericConstraints.dll
+C:\Users\Nitro\PracticeWork7\Project2_GenericConstraints\bin\Debug\net10.0\Project2_GenericConstraints.pdb
+C:\Users\Nitro\PracticeWork7\Project2_GenericConstraints\obj\Debug\net10.0\Project2_GenericConstraints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\PracticeWork7\Project2_GenericConstraints\obj\Debug\net10.0\Project2_GenericConstraints.AssemblyInfoInputs.cache
+C:\Users\Nitro\PracticeWork7\Project2_GenericConstraints\obj\Debug\net10.0\Project2_GenericConstraints.AssemblyInfo.cs
+C:\Users\Nitro\PracticeWork7\Project2_GenericConstraints\obj\Debug\net10.0\Project2_GenericConstraints.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\PracticeWork7\Project2_GenericConstraints\obj\Debug\net10.0\Project2_GenericConstraints.dll
+C:\Users\Nitro\PracticeWork7\Project2_GenericConstraints\obj\Debug\net10.0\refint\Project2_GenericConstraints.dll
+C:\Users\Nitro\PracticeWork7\Project2_GenericConstraints\obj\Debug\net10.0\Project2_GenericConstraints.pdb
+C:\Users\Nitro\PracticeWork7\Project2_GenericConstraints\obj\Debug\net10.0\Project2_GenericConstraints.genruntimeconfig.cache
+C:\Users\Nitro\PracticeWork7\Project2_GenericConstraints\obj\Debug\net10.0\ref\Project2_GenericConstraints.dll

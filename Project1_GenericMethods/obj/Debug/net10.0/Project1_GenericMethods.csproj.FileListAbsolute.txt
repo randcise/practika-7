@@ -1,0 +1,14 @@
+C:\Users\Nitro\PracticeWork7\Project1_GenericMethods\bin\Debug\net10.0\Project1_GenericMethods.exe
+C:\Users\Nitro\PracticeWork7\Project1_GenericMethods\bin\Debug\net10.0\Project1_GenericMethods.deps.json
+C:\Users\Nitro\PracticeWork7\Project1_GenericMethods\bin\Debug\net10.0\Project1_GenericMethods.runtimeconfig.json
+C:\Users\Nitro\PracticeWork7\Project1_GenericMethods\bin\Debug\net10.0\Project1_GenericMethods.dll
+C:\Users\Nitro\PracticeWork7\Project1_GenericMethods\bin\Debug\net10.0\Project1_GenericMethods.pdb
+C:\Users\Nitro\PracticeWork7\Project1_GenericMethods\obj\Debug\net10.0\Project1_GenericMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\PracticeWork7\Project1_GenericMethods\obj\Debug\net10.0\Project1_GenericMethods.AssemblyInfoInputs.cache
+C:\Users\Nitro\PracticeWork7\Project1_GenericMethods\obj\Debug\net10.0\Project1_GenericMethods.AssemblyInfo.cs
+C:\Users\Nitro\PracticeWork7\Project1_GenericMethods\obj\Debug\net10.0\Project1_GenericMethods.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\PracticeWork7\Project1_GenericMethods\obj\Debug\net10.0\Project1_GenericMethods.dll
+C:\Users\Nitro\PracticeWork7\Project1_GenericMethods\obj\Debug\net10.0\refint\Project1_GenericMethods.dll
+C:\Users\Nitro\PracticeWork7\Project1_GenericMethods\obj\Debug\net10.0\Project1_GenericMethods.pdb
+C:\Users\Nitro\PracticeWork7\Project1_GenericMethods\obj\Debug\net10.0\Project1_GenericMethods.genruntimeconfig.cache
+C:\Users\Nitro\PracticeWork7\Project1_GenericMethods\obj\Debug\net10.0\ref\Project1_GenericMethods.dll

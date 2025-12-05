@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Project1_GenericMethods/1.0.0": {
+        "runtime": {
+          "Project1_GenericMethods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project1_GenericMethods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
